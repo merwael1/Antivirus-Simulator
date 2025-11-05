@@ -2,10 +2,12 @@
 
 ## 👥 Contributeurs
 - YASSINE  | Étape 1️⃣ : Structures et prototypes
-- MARWA    | Étape 3️⃣ : Gestion des signatures
-- HAMZA    | Étape 5️⃣ : Nettoyage
-- ADAM     | Étape 2️⃣ : Gestion des fichiers
+- MERWA    | Étape 2️⃣ : Gestion des fichiers
+- ADAM     | Étape 3️⃣ : Gestion des signatures
 - MALAK    | Étape 4️⃣ : Scan
+- HAMZA    | Étape 5️⃣ : Nettoyage
+
+
 
 ---
 
